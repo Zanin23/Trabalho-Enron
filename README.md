@@ -20,19 +20,19 @@ A apresentação abre em tela cheia, como um aplicativo.
 |---|---|---|
 | ![](imagens/sala-lobby.jpg) | ![](imagens/sala-fraude.jpg) | ![](imagens/sala-mapa.jpg) |
 
-## Roteiro (andares)
+## Roteiro (slides)
 
-| # | Seção do trabalho | Sala |
+| Slide | Seção do trabalho | Sala |
 |---|---|---|
-| 0 | Capa | Vista externa do prédio |
-| 1 | Resumo e Introdução | Térreo / lobby |
-| 2 | A Enron e sua ascensão | Andar 12: mapa e linha do tempo |
-| 3 | A fraude: MTM, SPVs e manipulação | Andar 24: sala de reunião com gráficos |
-| 4 | A auditoria e a Arthur Andersen | Andar 33 |
-| 5 | A investigação | Andar 40 |
-| 6 | Impactos e a Lei Sarbanes-Oxley | Andar 44: mesa de operações |
-| 7 | Aprendizados para a profissão | Andar 48 |
-| 8 | Considerações finais e Referências | Vista aérea do topo |
+| 1 | Capa | Vista externa do prédio |
+| 2 | Resumo e Introdução | Lobby |
+| 3 | A Enron e sua ascensão | Escritório executivo: mapa e linha do tempo |
+| 4 | A fraude: MTM, SPVs e manipulação | Sala de reunião com gráficos |
+| 5 | A auditoria e a Arthur Andersen | Arthur Andersen |
+| 6 | A investigação | Força-tarefa |
+| 7 | Impactos e a Lei Sarbanes-Oxley | Mesa de operações |
+| 8 | Aprendizados para a profissão | Sala do conselho |
+| 9 | Considerações finais e Referências | Vista aérea do topo |
 
 ## ⌨️ Controles
 
